@@ -21,10 +21,12 @@
 - 09 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
 ## Matrix
+- 12 [Rotate Image](https://leetcode.com/problems/rotate-image)
 
 ## String
 - 02 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - 03 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+- 13 [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 
 ## Tree
 
