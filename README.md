@@ -2,30 +2,33 @@
 <https://leetcode.com/list/xi4ci4ig/>
 
 ## Arrays
-- 01 Two Sum
-- 04 Container With Most Water
-
+- 01 [2Sum](https://leetcode.com/problems/two-sum)
+- 04 [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+- 05 [3Sum](https://leetcode.com/problems/3sum)
+- 10 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 ## Binary
 
 ## Dynamic Programming
+- 11 [Combination Sum](https://leetcode.com/problems/combination-sum)
 
 ## Graph
 
 ## Interval
 
 ## Linked List
-- 06 Remove Nth Node From End of List
-- 08 Merge Two Sorted Lists
+- 06 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+- 08 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+- 09 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
 ## Matrix
 
 ## String
-- 02 Longest Substring Without Repeating Characters
-- 03 Longest Palindromic Substring
+- 02 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- 03 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 
 ## Tree
 
 ## Heap
 
 ## Stack
-- 07 Valid Parantheses
+- 07 [Valid Parantheses](https://leetcode.com/problems/valid-parentheses)
