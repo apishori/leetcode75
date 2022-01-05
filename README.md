@@ -15,6 +15,7 @@
 - 16 [Jump Game](https://leetcode.com/problems/jump-game)
 - 19 [Unique Paths](https://leetcode.com/problems/unique-paths)
 - 20 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+- 24 [Decode Ways](https://leetcode.com/problems/decode-ways)
 
 ## Graph
 
