@@ -36,6 +36,7 @@
 - 02 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - 03 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 - 13 [Group Anagrams](https://leetcode.com/problems/group-anagrams)
+- 22 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 
 ## Tree
 
@@ -43,3 +44,6 @@
 
 ## Stack
 - 07 [Valid Parantheses](https://leetcode.com/problems/valid-parentheses)
+
+## DFS
+- 23 [Word Search](https://leetcode.com/problems/word-search)
