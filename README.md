@@ -13,11 +13,14 @@
 ## Dynamic Programming
 - 11 [Combination Sum](https://leetcode.com/problems/combination-sum)
 - 16 [Jump Game](https://leetcode.com/problems/jump-game)
+- 19 [Unique Paths](https://leetcode.com/problems/unique-paths)
+- 20 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 
 ## Graph
 
 ## Interval
 - 17 [Merge Interval](https://leetcode.com/problems/merge-intervals)
+- 18 [Insert Interval](https://leetcode.com/problems/insert-interval)
 
 ## Linked List
 - 06 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
@@ -27,6 +30,7 @@
 ## Matrix
 - 12 [Rotate Image](https://leetcode.com/problems/rotate-image)
 - 15 [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
+- 21 [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes)
 
 ## String
 - 02 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
