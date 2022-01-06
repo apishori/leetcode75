@@ -40,6 +40,10 @@
 - 22 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 
 ## Tree
+- 25 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+- 26 [Same Tree](https://leetcode.com/problems/same-tree)
+- 27 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
+- 28 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 
 ## Heap
 
