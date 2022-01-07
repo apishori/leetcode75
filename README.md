@@ -29,6 +29,7 @@
 - 06 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 - 08 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 - 09 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+- 36 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 
 ## Matrix
 - 12 [Rotate Image](https://leetcode.com/problems/rotate-image)
@@ -57,3 +58,6 @@
 
 ## DFS
 - 23 [Word Search](https://leetcode.com/problems/word-search)
+
+## BFS
+- 34 [Clone Graph](https://leetcode.com/problems/clone-graph)
