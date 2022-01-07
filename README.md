@@ -7,6 +7,8 @@
 - 05 [3Sum](https://leetcode.com/problems/3sum)
 - 10 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - 14 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+- 30 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+- 33 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 
 ## Binary
 
@@ -38,12 +40,15 @@
 - 03 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 - 13 [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 - 22 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
+- 32 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 
 ## Tree
 - 25 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 - 26 [Same Tree](https://leetcode.com/problems/same-tree)
 - 27 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 - 28 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+- 29 [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
+- 31 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 
 ## Heap
 
