@@ -18,6 +18,7 @@
 - 19 [Unique Paths](https://leetcode.com/problems/unique-paths)
 - 20 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 - 24 [Decode Ways](https://leetcode.com/problems/decode-ways)
+- 35 [Word Break](https://leetcode.com/problems/word-break)
 
 ## Graph
 
@@ -30,6 +31,7 @@
 - 08 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 - 09 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - 36 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+- 37 [Reorder List](https://leetcode.com/problems/reorder-list)
 
 ## Matrix
 - 12 [Rotate Image](https://leetcode.com/problems/rotate-image)
