@@ -9,8 +9,12 @@
 - 14 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - 30 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 - 33 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
+- 38 [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
+- 39 [Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 
 ## Binary
+- 40 [Reverse Bits](https://leetcode.com/problems/reverse-bits)
+- 41 [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 
 ## Dynamic Programming
 - 11 [Combination Sum](https://leetcode.com/problems/combination-sum)
@@ -19,6 +23,7 @@
 - 20 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 - 24 [Decode Ways](https://leetcode.com/problems/decode-ways)
 - 35 [Word Break](https://leetcode.com/problems/word-break)
+- 42 [House Robber](https://leetcode.com/problems/house-robber)
 
 ## Graph
 
@@ -60,6 +65,7 @@
 
 ## DFS
 - 23 [Word Search](https://leetcode.com/problems/word-search)
+- 43 [Number of Islands](https://leetcode.com/problems/number-of-islands)
 
 ## BFS
 - 34 [Clone Graph](https://leetcode.com/problems/clone-graph)
