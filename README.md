@@ -25,6 +25,7 @@
 - 24 [Decode Ways](https://leetcode.com/problems/decode-ways)
 - 35 [Word Break](https://leetcode.com/problems/word-break)
 - 42 [House Robber](https://leetcode.com/problems/house-robber)
+- 49 [House Robber II](https://leetcode.com/problems/house-robber-ii)
 
 ## Graph
 
@@ -59,7 +60,12 @@
 - 28 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - 29 [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 - 31 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
+- 51 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+
+## Trie
 - 46 [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
+- 47 [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)
+- 48 [Word Search II](https://leetcode.com/problems/word-search-ii)
 
 ## Heap
 
