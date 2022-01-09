@@ -12,6 +12,7 @@
 - 38 [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
 - 39 [Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 - 50 [Contains Duplicates](https://leetcode.com/problems/contains-duplicate)
+- 55 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
 
 ## Binary
 - 40 [Reverse Bits](https://leetcode.com/problems/reverse-bits)
@@ -52,6 +53,7 @@
 - 13 [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 - 22 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 - 32 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+- 56 [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 
 ## Tree
 - 25 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
@@ -61,6 +63,7 @@
 - 29 [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 - 31 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 - 51 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+- 53 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 
 ## Trie
 - 46 [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
@@ -76,6 +79,8 @@
 - 23 [Word Search](https://leetcode.com/problems/word-search)
 - 43 [Number of Islands](https://leetcode.com/problems/number-of-islands)
 - 50 [Course Schedule](https://leetcode.com/problems/course-schedule)
+- 52 [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
+- 54 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 
 ## BFS
 - 34 [Clone Graph](https://leetcode.com/problems/clone-graph)
