@@ -11,6 +11,7 @@
 - 33 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 - 38 [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)
 - 39 [Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
+- 50 [Contains Duplicates](https://leetcode.com/problems/contains-duplicate)
 
 ## Binary
 - 40 [Reverse Bits](https://leetcode.com/problems/reverse-bits)
@@ -37,6 +38,7 @@
 - 09 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 - 36 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 - 37 [Reorder List](https://leetcode.com/problems/reorder-list)
+- 44 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 
 ## Matrix
 - 12 [Rotate Image](https://leetcode.com/problems/rotate-image)
@@ -57,6 +59,7 @@
 - 28 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - 29 [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 - 31 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
+- 46 [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
 
 ## Heap
 
@@ -66,6 +69,7 @@
 ## DFS
 - 23 [Word Search](https://leetcode.com/problems/word-search)
 - 43 [Number of Islands](https://leetcode.com/problems/number-of-islands)
+- 50 [Course Schedule](https://leetcode.com/problems/course-schedule)
 
 ## BFS
 - 34 [Clone Graph](https://leetcode.com/problems/clone-graph)
