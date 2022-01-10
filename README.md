@@ -13,6 +13,7 @@
 - 39 [Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 - 50 [Contains Duplicates](https://leetcode.com/problems/contains-duplicate)
 - 55 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
+- 60 [Missing Number](https://leetcode.com/problems/missing-number)
 
 ## Binary
 - 40 [Reverse Bits](https://leetcode.com/problems/reverse-bits)
@@ -56,6 +57,7 @@
 - 22 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 - 32 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 - 56 [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+- 62 [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)
 
 ## Tree
 - 25 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
@@ -73,6 +75,7 @@
 - 48 [Word Search II](https://leetcode.com/problems/word-search-ii)
 
 ## Heap
+- 63 [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)
 
 ## Stack
 - 07 [Valid Parantheses](https://leetcode.com/problems/valid-parentheses)
@@ -83,6 +86,8 @@
 - 50 [Course Schedule](https://leetcode.com/problems/course-schedule)
 - 52 [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 - 54 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
+- 59 [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)
 
 ## BFS
 - 34 [Clone Graph](https://leetcode.com/problems/clone-graph)
+- 61 [Alien Dictionary](https://leetcode.com/problems/alien-dictionary)
