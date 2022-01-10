@@ -18,6 +18,7 @@
 ## Binary
 - 40 [Reverse Bits](https://leetcode.com/problems/reverse-bits)
 - 41 [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
+- 67 [Counting Bits](https://leetcode.com/problems/counting-bits)
 
 ## Dynamic Programming
 - 11 [Combination Sum](https://leetcode.com/problems/combination-sum)
@@ -28,6 +29,8 @@
 - 35 [Word Break](https://leetcode.com/problems/word-break)
 - 42 [House Robber](https://leetcode.com/problems/house-robber)
 - 49 [House Robber II](https://leetcode.com/problems/house-robber-ii)
+- 64 [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
+- 65 [Coin Change](https://leetcode.com/problems/coin-change)
 
 ## Graph
 
@@ -76,6 +79,7 @@
 
 ## Heap
 - 63 [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)
+- 68 [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 
 ## Stack
 - 07 [Valid Parantheses](https://leetcode.com/problems/valid-parentheses)
@@ -87,6 +91,7 @@
 - 52 [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 - 54 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 - 59 [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)
+- 66 [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
 
 ## BFS
 - 34 [Clone Graph](https://leetcode.com/problems/clone-graph)
