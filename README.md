@@ -19,6 +19,7 @@
 - 40 [Reverse Bits](https://leetcode.com/problems/reverse-bits)
 - 41 [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 - 67 [Counting Bits](https://leetcode.com/problems/counting-bits)
+- 69 [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)
 
 ## Dynamic Programming
 - 11 [Combination Sum](https://leetcode.com/problems/combination-sum)
@@ -31,6 +32,7 @@
 - 49 [House Robber II](https://leetcode.com/problems/house-robber-ii)
 - 64 [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
 - 65 [Coin Change](https://leetcode.com/problems/coin-change)
+- 76 [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
 
 ## Graph
 
@@ -39,6 +41,7 @@
 - 18 [Insert Interval](https://leetcode.com/problems/insert-interval)
 - 57 [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
 - 58 [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
+- 72 [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
 
 ## Linked List
 - 06 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
@@ -61,6 +64,8 @@
 - 32 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 - 56 [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 - 62 [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)
+- 71 [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)
+- 75 [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
 
 ## Tree
 - 25 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
@@ -71,6 +76,8 @@
 - 31 [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 - 51 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 - 53 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+- 74 [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)
+- [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)
 
 ## Trie
 - 46 [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
@@ -92,7 +99,9 @@
 - 54 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 - 59 [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)
 - 66 [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
+- 73 [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst)
 
 ## BFS
 - 34 [Clone Graph](https://leetcode.com/problems/clone-graph)
 - 61 [Alien Dictionary](https://leetcode.com/problems/alien-dictionary)
+- 70 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)
