@@ -34,8 +34,6 @@
 - 65 [Coin Change](https://leetcode.com/problems/coin-change)
 - 76 [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
 
-## Graph
-
 ## Interval
 - 17 [Merge Interval](https://leetcode.com/problems/merge-intervals)
 - 18 [Insert Interval](https://leetcode.com/problems/insert-interval)
@@ -105,3 +103,6 @@
 - 34 [Clone Graph](https://leetcode.com/problems/clone-graph)
 - 61 [Alien Dictionary](https://leetcode.com/problems/alien-dictionary)
 - 70 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)
+
+## Backtracking
+- [N Queens](https://leetcode.com/problems/n-queens)
